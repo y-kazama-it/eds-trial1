@@ -33,3 +33,10 @@
   background-color: wheat;
   box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
 }
+.cards.bg-red {
+  background-color: red;
+}
+.cards.bg-red > ul > li {
+  background-color: wheat;
+  box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
+}
